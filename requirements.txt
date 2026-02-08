@@ -1,0 +1,15 @@
+# Core dependencies
+requests>=2.31.0
+rich>=13.7.0
+pydantic>=2.5.0
+pyfiglet>=0.8.post1
+
+# Security testing utilities (optional but recommended)
+cryptography>=41.0.0
+
+# Development dependencies (uncomment when developing)
+# pytest>=7.4.0
+# black>=23.0.0
+# mypy>=1.5.0
+# bandit>=1.7.0
+# safety>=2.3.0
